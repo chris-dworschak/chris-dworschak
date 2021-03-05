@@ -1,5 +1,5 @@
-## Welcome to my GitHub page (moved)
+## Welcome to my GitHub page (MOVED)
 
-Important notice: all projects are moved to GitLab @[https://gitlab.com/chris-dworschak/](https://gitlab.com/chris-dworschak/), including the development versions of the CRAN packages [acled.api](https://CRAN.R-project.org/package=acled.api) and [disastr.api](https://CRAN.R-project.org/package=disastr.api). 
+Hi there. I'm a post-doctoral researcher at the Norwegian University of Science and Technology (NTNU) and a fellow at the Michael Nicholson Centre for Conflict and Cooperation, University of Essex. For more information on my research have a look at [my website](https://www.chrisdworschak.com/).
 
-Existing project versions are kept here for dependencies, but will not receive updates anymore. In case of any issues with the code, please switch pulls to my GitLab profile for latest releases. In case of questions do not hesitate to get in touch. For more information on my research have a look at [my website](https://www.chrisdworschak.com/).
+Note: I moved all projects to GitLab @[https://gitlab.com/chris-dworschak/](https://gitlab.com/chris-dworschak/), including the development versions of the CRAN packages [acled.api](https://CRAN.R-project.org/package=acled.api) and [disastr.api](https://CRAN.R-project.org/package=disastr.api). GitHub only contains mirrors of the original GitLab repositories. This is a one-way pipeline, so merge requests on GitHub are not accepted. In case of questions do not hesitate to get in touch.
