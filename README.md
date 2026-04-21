@@ -1,4 +1,4 @@
-## Welcome to my GitHub page (MOVED)
+## Welcome to my GitHub page
 
 Hi there. I'm a political scientist at the Bundeswehr University Munich. For more information on me and my research, take a look at [my website](https://www.chrisdworschak.com/).
 
